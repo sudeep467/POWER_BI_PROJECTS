@@ -7,4 +7,6 @@ An online SaaS (Software as a Service) service called the Power BI service.
 Power BI mobile apps for Windows, iOS, and Android devices.
 The flow of work in Power BI
 One common workflow in Power BI begins by connecting to data sources in Power BI Desktop and building a report. You then publish that report from Power BI Desktop to the Power BI service, and share it so business users in the Power BI service and on mobile devices can view and interact with the report.
+
+
 ![image](https://user-images.githubusercontent.com/83537775/150668415-2411d929-e714-47be-8882-180e168cf1e3.png)
